@@ -1,1 +1,4 @@
-ibm_quantum/**/apikey.json
+# IBM Quantum API key jsons
+
+ibm_quantum/**/equivoque_apikey.json
+ibm_quantum/**/qiskitglobalsummerschool2025.json
